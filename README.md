@@ -3,7 +3,7 @@ This script print RaspberryPi's IP address when booting.
 
 Print IP address, OS and last update.
 
-Dipendence
+## Dipendence
 
 python3
 
